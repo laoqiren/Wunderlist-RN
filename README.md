@@ -1,4 +1,4 @@
-## 奇妙清单(Wunderlist)版
+## 奇妙清单(Wunderlist) RN 版
 
 仿奇妙清单日程管理APP for Android
 
@@ -38,5 +38,11 @@ react-native run-android
 ### TODO
 
 目前只是个雏形，先占个坑，后期逐步完善。
+
+* [] 基础功能
+* [x] 用户管理
+* [x] 网络备份
+* [x] 修复已知bug
+* [x] 测试
 
 
