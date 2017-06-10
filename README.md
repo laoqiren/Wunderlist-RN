@@ -6,14 +6,14 @@ RN + Redux + Node + Mongo
 
 ### 组件/插件清单
 
-. react-native-splash-screen  启动屏
-. react-native-vector-icons   矢量图标库
-. react-navigation   导航
-. react-native-storage 本地存储
-. react-native-modal-datetime-picker 日期选择器
-. react-native-button 按钮
-. react-native-check-box 复选框
-. react-native-action-button 悬浮菜单
+* react-native-splash-screen  启动屏
+* react-native-vector-icons   矢量图标库
+* react-navigation   导航
+* react-native-storage 本地存储
+* react-native-modal-datetime-picker 日期选择器
+* react-native-button 按钮
+* react-native-check-box 复选框
+* react-native-action-button 悬浮菜单
 
 ### 开发环境
 
