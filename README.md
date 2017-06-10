@@ -17,19 +17,19 @@ RN + Redux + Node + Mongo
 
 ### 开发环境
 
-#### 安装依赖
+**安装依赖**
 
 ```
 yarn install
 ```
 
-#### bundle
+**bundle**
 
 ```
 react-native start
 ```
 
-#### run
+**run**
 
 ```
 react-native run-android
