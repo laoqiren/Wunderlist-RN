@@ -1,0 +1,1 @@
+export const allTodos = "http://localhost:3000/statics/data/todos.json";
